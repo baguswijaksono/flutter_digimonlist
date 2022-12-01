@@ -1,16 +1,10 @@
-# flutter_application_diigimon
+# Flutter Digimon list
 
-A new Flutter project.
+Latihan get data API
 
-## Getting Started
+## Screenshot 
 
-This project is a starting point for a Flutter application.
+| 2 Columns | 3 Columns | 4 Columns |
+|:---------------:|:----------------:|:------------------:|
+| <img width="300" alt="2 columns" src="https://user-images.githubusercontent.com/106671990/205037718-970d6309-c0f8-47cd-a935-0588893c30cc.png"> | <img width="300" alt="3 columns" src="https://user-images.githubusercontent.com/106671990/205037786-0c1f97a9-40e5-4e1d-a97f-0e54e72b54a2.png"> | <img width="280" alt="4 columns" src="https://user-images.githubusercontent.com/106671990/205037845-4efd8b06-f430-45b9-9703-bc491be26472.png"> |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
